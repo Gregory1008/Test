@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         print("change2")
         print("firstBranchChange1")
         print("firstBranchChange2")
+        print("firstFirstBrachChange2")
     }
 
     
