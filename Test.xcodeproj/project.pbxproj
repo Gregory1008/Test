@@ -35,6 +35,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		599F7C402046EC5E00F76DC8 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				59B5A5072041BCCC00EC2DEB /* AppDelegate.swift */,
+				59B5A50E2041BCCC00EC2DEB /* Assets.xcassets */,
+				59B5A5102041BCCC00EC2DEB /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting Files";
+			sourceTree = "<group>";
+		};
 		59B5A4FB2041BCCC00EC2DEB = {
 			isa = PBXGroup;
 			children = (
@@ -54,11 +64,9 @@
 		59B5A5062041BCCC00EC2DEB /* Test */ = {
 			isa = PBXGroup;
 			children = (
-				59B5A5072041BCCC00EC2DEB /* AppDelegate.swift */,
 				59B5A5092041BCCC00EC2DEB /* ViewController.swift */,
 				59B5A50B2041BCCC00EC2DEB /* Main.storyboard */,
-				59B5A50E2041BCCC00EC2DEB /* Assets.xcassets */,
-				59B5A5102041BCCC00EC2DEB /* LaunchScreen.storyboard */,
+				599F7C402046EC5E00F76DC8 /* Supporting Files */,
 				59B5A5132041BCCC00EC2DEB /* Info.plist */,
 			);
 			path = Test;
