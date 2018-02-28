@@ -14,8 +14,6 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("change1")
         print("change2")
-        print("firstBranchChange1")
-        print("firstBranchChange2")
     }
 
     
